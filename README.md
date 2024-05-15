@@ -7,8 +7,6 @@ Converts PDF files to MP3 audio format.
 Allows selecting specific page ranges from the PDF.
 
 
-Installation
-
 No installation is needed.
 
 
