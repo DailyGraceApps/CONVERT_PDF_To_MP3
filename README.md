@@ -6,10 +6,6 @@ Converts PDF files to MP3 audio format.
 
 Allows selecting specific page ranges from the PDF.
 
-User-friendly interface provided by Tkinter. (tkinter is licensed under the BSD license. https://docs.python.org/3/library/tkinter.html)
-
-Utilizes PyPDF2 for PDF manipulation and gTTS (Google Text-to-Speech) for text-to-speech conversion. (gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API.It's under the MIT License (MIT)https://pypi.org/project/gTTS/). 
-
 
 Installation
 
@@ -41,6 +37,14 @@ Select example.pdf.
 Enter 3 as the start page and 7 as the end page.
 Wait for the conversion to complete.
 The resulting MP3 file, named example_pages_3-7.mp3, will be available in the same directory as example.pdf.
+
+
+
+User-friendly interface provided by Tkinter. (tkinter is licensed under the BSD license. https://docs.python.org/3/library/tkinter.html)
+
+Utilizes PyPDF2 for PDF manipulation and gTTS (Google Text-to-Speech) for text-to-speech conversion. (gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API.It's under the MIT License (MIT)https://pypi.org/project/gTTS/). 
+
+
 
 Notes
 Make sure the PDF file does not have any restrictions (e.g., password protection) preventing text extraction.
