@@ -14,17 +14,15 @@ No installation is needed.
 
 Usage
 
-Download the EXE file and double click to execute.
+1. Download the EXE file and double click to execute.
 
-Run the pdf_to_mp3.py script.
+2. Select a PDF file from your system.
 
-Select a PDF file from your system.
+3. Specify the page range to convert.
 
-Specify the page range to convert.
+4. Wait for the conversion process to finish.
 
-Wait for the conversion process to finish.
-
-Once completed, the MP3 file will be saved in the same directory as the input PDF file.
+5. Once completed, the MP3 file will be saved in the same directory as the input PDF file.
 
 If the conversion is successful, the folder containing the MP3 file will be opened automatically.
 
